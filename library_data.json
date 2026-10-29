@@ -1,0 +1,89 @@
+{
+  "Catalog": [
+    {
+      "Title": "Harry Potter and the Sorcerer\u0027s Stone",
+      "Author": "J.K. Rowling",
+      "Genre": 3,
+      "Available": true,
+      "ItemID": "b001"
+    },
+    {
+      "Title": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Genre": 3,
+      "Available": true,
+      "ItemID": "b002"
+    },
+    {
+      "Title": "Percy Jackson: The Lightning Thief",
+      "Author": "Rick Riordan",
+      "Genre": 3,
+      "Available": true,
+      "ItemID": "b003"
+    },
+    {
+      "Title": "Diary of a Wimpy Kid",
+      "Author": "Jeff Kinney",
+      "Genre": 0,
+      "Available": true,
+      "ItemID": "b004"
+    },
+    {
+      "Title": "The Cat in the Hat",
+      "Author": "Dr. Seuss",
+      "Genre": 0,
+      "Available": true,
+      "ItemID": "b005"
+    },
+    {
+      "Title": "The Miracle of Forgiveness",
+      "Author": "Spencer W. Kimball",
+      "Genre": 1,
+      "Available": true,
+      "ItemID": "b006"
+    },
+    {
+      "Title": "The Book Thief",
+      "Author": "Markus Zusak",
+      "Genre": 1,
+      "Available": true,
+      "ItemID": "b007"
+    },
+    {
+      "Title": "The Great Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Genre": 0,
+      "Available": true,
+      "ItemID": "b008"
+    },
+    {
+      "Title": "The Maze Runner",
+      "Author": "James Dashner",
+      "Genre": 2,
+      "Available": true,
+      "ItemID": "b009"
+    },
+    {
+      "Title": "The Book of Mormon",
+      "Author": "LDS Church",
+      "Genre": 1,
+      "Available": true,
+      "ItemID": "b010"
+    }
+  ],
+  "Patrons": [
+    {
+      "Name": "Evan Barrett",
+      "ID": "p100"
+    },
+    {
+      "Name": "Guest",
+      "ID": "p001"
+    },
+    {
+      "Name": "Joseph Smith",
+      "ID": "p531"
+    }
+  ],
+  "Loans": []
+}
