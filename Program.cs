@@ -21,7 +21,7 @@ public class Program
     }
 }
 
-// Shows different genres of books available in the library.
+// Shows different genres of books available in the library
 namespace LibraryManagementSystem.Models
 {
         public enum BookGenre
